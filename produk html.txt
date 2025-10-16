@@ -26,7 +26,7 @@
  <td>Cemilan yang berisi kentang goreng, nugget dan cireng</td>
  <td>Rp 25.000</td>
  </tr>
- </table>
+ </table>blue
  <nav>
  <a href="index.html">Beranda</a> |
  <a href="tentang.html">Tentang Kami</a> |
@@ -34,4 +34,5 @@
  <a href="kontak.html">Kontak</a>
  </nav>
 </body>
+
 </html>
